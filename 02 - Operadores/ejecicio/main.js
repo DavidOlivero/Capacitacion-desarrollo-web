@@ -17,6 +17,8 @@
   Muestra todos los resultados usando console.log o alert.
 */
 
+// Esta es mi solución
+
 // Desafío
 
 // ===============================
