@@ -17,6 +17,8 @@
   Muestra todos los resultados usando console.log o alert.
 */
 
+// Esta es la socución al ejercicio de Suisver
+
 // Desafío
 
 // ===============================
