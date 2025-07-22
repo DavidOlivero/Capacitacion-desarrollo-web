@@ -1,8 +1,8 @@
-const PEPE = {
-  nombre: 'Pepe',
-  edad: 25,
-  ciudad: 'Bogotá'
-}
+// const PEPE = {
+//   nombre: 'Pepe',
+//   edad: 25,
+//   ciudad: 'Bogotá'
+// }
 
 // Condicionales: Hacer una cosa u otra si algo es verdadero o falso
 
@@ -30,13 +30,14 @@ const PEPE = {
 //   console.log('Usted no es el adecuado para el empleo')
 // }
 
-const EDAD_USUARIO = Number(prompt('Ingrese su edad'))
-if (EDAD_USUARIO < 18) {
-  console.log('El usuario es menor de edad')
-} else if (EDAD_USUARIO >= 18 && EDAD_USUARIO <= 39) {
-  console.log('El usuario es un adulto joven')
-} else if (EDAD_USUARIO >= 40 && EDAD_USUARIO <= 59) {
-  console.log('El usuario es adulto')
-} else {
-  console.log('El usuario es de tercera edad')
-}
+// const EDAD_USUARIO = Number(prompt('Ingrese su edad'))
+// if (EDAD_USUARIO < 18) {
+//   console.log('El usuario es menor de edad')
+// } else if (EDAD_USUARIO >= 18 && EDAD_USUARIO <= 39) {
+//   console.log('El usuario es un adulto joven')
+// } else if (EDAD_USUARIO >= 40 && EDAD_USUARIO <= 59) {
+//   console.log('El usuario es adulto')
+// } else {
+//   console.log('El usuario es de tercera edad')
+// }
+
